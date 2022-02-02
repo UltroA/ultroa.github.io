@@ -1,0 +1,28 @@
+.uWu {
+  color: #FFE800;
+  width: 500px;
+  background-color: #530FAD;
+  border: 3px solid #7922CC;
+  border-radius: 25px;
+}
+h2 {
+  color: #D235D2;
+  width: 500px;
+  background-color: #530FAD;
+  border: 3px solid #7922CC;
+  border-radius: 1px;
+}
+body {
+    background-color: #330570;
+    font: sans pro;
+}
+
+
+nav {
+    background-color: #090974;
+}
+
+.brand {
+    color: #6C006C;
+}
+
