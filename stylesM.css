@@ -1,16 +1,18 @@
 .uWu {
   color: #FFE800;
-  width: 750px;
+  width: 828px;
   background-color: #530FAD;
   border: 3px solid #7922CC;
   border-radius: 25px;
+    font-size: xx-large;
 }
 h2 {
   color: #D235D2;
-  width: 500px;
+  width: 828px;
   background-color: #530FAD;
   border: 3px solid #7922CC;
   border-radius: 1px;
+    font-size: xxx-large;
 }
 body {
     background-color: #330570;
