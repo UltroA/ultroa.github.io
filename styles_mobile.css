@@ -1,25 +1,30 @@
 .uWu {
   color: #FFE800;
-  width: 500px;
+  width: 1000px;
   background-color: #530FAD;
   border: 3px solid #7922CC;
   border-radius: 25px;
 }
 h2 {
   color: #D235D2;
-  width: 500px;
+  width: 1000px;
   background-color: #530FAD;
   border: 3px solid #7922CC;
   border-radius: 1px;
+    font-size: 90px;
 }
 body {
     background-color: #330570;
     font: sans pro;
-    font-size: 30px;
+    font-size: 90px;
 }
 
 a {
-    font-size: 25px;
+    font-size: 45px;
+}
+
+.btn {
+    font-size: 90px;
 }
 
 li {
